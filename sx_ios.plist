@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sheng.shengxin.com/iosdownload/CSR201802271104JOUQDB-resigned.ipa</string>
+					<string>http://download.shengxinyule.com:81/download/sx_ios/sx_ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://sheng.shengxin.com/iosdownload/image.57%C3%9757.png</string>
+					<string>http://download.shengxinyule.com:81/download/sx_ios/image.57%C3%9757.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://sheng.shengxin.com/iosdownload/iamge.512%C3%97512.png</string>
+					<string>http://download.shengxinyule.com:81/download/sx_ios/iamge.512%C3%97512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocos2dx.dwc</string>
+				<string>com.cking.dwc.cbu</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>sx-mobile</string>
+				<string>ShengXin-mobile</string>
 			</dict>
 		</dict>
 	</array>
